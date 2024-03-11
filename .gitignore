@@ -1,0 +1,12 @@
+**/mistral-lora-token-classification
+**/roberta-large-lora-token-classification
+**/validation_models/
+**/pipes/
+**/validation_predictions/
+**/data/
+**/cola_public/
+**/per_motion_prediction/wandb/
+**/__pycache__/
+**/hidden_states/
+**/gvc/
+**/openai_dataset/
